@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Hello Anuradha!!! It is a CI-CD Demo of Jenkins,Maven and Git</h2>
+<h2>Hello Anuradha!!! It is very interesting to know CI-CD via Jenkins</h2>
 </body>
 </html>
